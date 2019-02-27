@@ -6,7 +6,8 @@ namespace sample_project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            HelloAttribute test = new HelloAttribute();
+            Console.WriteLine($"result: {test.IsValid(1)}");
         }
     }
 }

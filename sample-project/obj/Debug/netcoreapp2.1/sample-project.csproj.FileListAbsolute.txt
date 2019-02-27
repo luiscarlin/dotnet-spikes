@@ -1,0 +1,11 @@
+/Users/lcarlin/git/dotnet-spikes/sample-project/bin/Debug/netcoreapp2.1/sample-project.deps.json
+/Users/lcarlin/git/dotnet-spikes/sample-project/bin/Debug/netcoreapp2.1/sample-project.runtimeconfig.json
+/Users/lcarlin/git/dotnet-spikes/sample-project/bin/Debug/netcoreapp2.1/sample-project.runtimeconfig.dev.json
+/Users/lcarlin/git/dotnet-spikes/sample-project/bin/Debug/netcoreapp2.1/sample-project.dll
+/Users/lcarlin/git/dotnet-spikes/sample-project/bin/Debug/netcoreapp2.1/sample-project.pdb
+/Users/lcarlin/git/dotnet-spikes/sample-project/obj/Debug/netcoreapp2.1/sample-project.csprojAssemblyReference.cache
+/Users/lcarlin/git/dotnet-spikes/sample-project/obj/Debug/netcoreapp2.1/sample-project.csproj.CoreCompileInputs.cache
+/Users/lcarlin/git/dotnet-spikes/sample-project/obj/Debug/netcoreapp2.1/sample-project.AssemblyInfoInputs.cache
+/Users/lcarlin/git/dotnet-spikes/sample-project/obj/Debug/netcoreapp2.1/sample-project.AssemblyInfo.cs
+/Users/lcarlin/git/dotnet-spikes/sample-project/obj/Debug/netcoreapp2.1/sample-project.dll
+/Users/lcarlin/git/dotnet-spikes/sample-project/obj/Debug/netcoreapp2.1/sample-project.pdb
